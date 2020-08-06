@@ -13,7 +13,7 @@ Author Profile: https://www.varunharikumar.com
 /*fontawesome all.min*/
 @import url("../assets/@fortawesome/fontawesome-free/css/all.min.css");
 /*Styles.css*/
-@import url("styles.min.css");
+@import url("../sass/main.css");
 /*Raleway Fonts From Google Fonts*/
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap");
 /*Alfa Slab One Fonts From Google Fonts*/
