@@ -8,7 +8,7 @@ Bootstrap 4
 
 ### Support or Contact
 
-Having trouble with Pages? Please [send a request](https://varunharikumar.com/lets-talk.php) or contact my [Email Address](hello@varunharikumar.com) and I’ll help you sort it out.
+Having trouble with Pages? Please [send a request](https://varunharikumar.com/lets-talk.php) or contact my email address : hello@varunharikumar.com and I’ll help you sort it out.
 
 <br>
 <br>
