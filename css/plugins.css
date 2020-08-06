@@ -1,0 +1,20 @@
+/************ Plugins Css **************************************
+
+Template Name: Varun Harikumar - SASS, Bootstrap 4, Fully Responsive Error Templates
+Author: Varun Harikumar
+Author Profile: https://www.varunharikumar.com    
+
+****************************************************************/
+
+/*Bootstrap.min.css*/
+@import url("../assets/bootstrap/dist/css/bootstrap.min.css");
+/*animate.min.css*/
+@import url("../assets/animate.css/animate.min.css");
+/*fontawesome all.min*/
+@import url("../assets/@fortawesome/fontawesome-free/css/all.min.css");
+/*Styles.css*/
+@import url("styles.min.css");
+/*Raleway Fonts From Google Fonts*/
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap");
+/*Alfa Slab One Fonts From Google Fonts*/
+@import url("https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap");
