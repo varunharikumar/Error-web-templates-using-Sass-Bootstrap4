@@ -5,14 +5,6 @@ Bootstrap 4
 <br>
 <br>
 
-
-### Support or Contact
-
-Having trouble with Pages? Please [send a request](https://varunharikumar.com/lets-talk.php) or contact my email address : hello@varunharikumar.com and I’ll help you sort it out.
-
-<br>
-<br>
-
 assets/<br>
 |<br>
 |– fontawesome<br>
@@ -40,6 +32,15 @@ index.html<br>
 
 <br>
 <br>
+
+
+### Support or Contact
+
+Having trouble with Pages? Please [send a request](https://varunharikumar.com/lets-talk.php) or contact my email address : hello@varunharikumar.com and I’ll help you sort it out.
+
+<br>
+<br>
+
 
 <table>
   <tbody>
