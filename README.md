@@ -1,14 +1,4 @@
-<h1>Error web templates using Sass Bootstrap 4</h1>
-
-# Welcome to GitHub Pages
-
-## Welcome to GitHub Pages
-
-### Welcome to GitHub Pages
-
-#### Welcome to GitHub Pages
-
-##### Welcome to GitHub Pages
+# Error web templates using Sass Bootstrap 4
 
 Create error pages (404,401,403,404,500,503) Website Templates usign Sass
 Bootstrap 4
