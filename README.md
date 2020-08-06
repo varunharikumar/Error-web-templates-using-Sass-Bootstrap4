@@ -30,6 +30,10 @@ Bootstrap 4
 **error-503.html**<br>
 **index.html**<br><br>
 
+
+- [Error web templates using Sass Bootstrap 4](#error-web-templates-using-sass-bootstrap-4)
+    - [Support or Contact](#support-or-contact)
+
 ### Support or Contact
 
 Having trouble with Pages? Please [send a request](https://varunharikumar.com/lets-talk.php) or contact my email address : hello@varunharikumar.com and I’ll help you sort it out.
