@@ -13,12 +13,12 @@ Having trouble with Pages? Please [send a request](https://varunharikumar.com/le
 <br>
 <br>
 
-sass/
-|
-|– abstracts/ (or utilities/)
-|   |– _variables.scss    // Sass Variables
-|   |– _functions.scss    // Sass Functions
-|   |– _mixins.scss       // Sass Mixins
+sass/<br>
+|<br>
+|– abstracts/ (or utilities/)<br>
+|   |– _variables.scss    // Sass Variables<br>
+|   |– _functions.scss    // Sass Functions<br>
+|   |– _mixins.scss       // Sass Mixins<br>
 |
 |– base/
 |   |– _reset.scss        // Reset/normalize
