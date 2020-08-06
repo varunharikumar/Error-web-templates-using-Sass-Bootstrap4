@@ -4,31 +4,31 @@ Create error pages (404,401,403,404,500,503) Website Templates usign Sass
 Bootstrap 4
 <br>
 <br>
-**Bold**
-assets/<br>
+
+**assets/**<br>
 |<br>
-|– fontawesome<br>
-|– animate.css<br>
-|– bootstrap<br>
-|– jquery<br>
+|– _fontawesome_<br>
+|– _animate.css_<br>
+|– _bootstrap_<br>
+|– _jquery_<br>
 |<br>
-css/<br>
+**css/**<br>
 |<br>
-|– plugin.css<br>
+|– _plugin.css_<br>
 |<br>
-sass/<br>
+**sass/**<br>
 |<br>
-|– main.css<br>
-|– main.scss<br>
-|– main.css.map<br>
-|– main.min.css<br>
+|– _main.css_<br>
+|– _main.scss_<br>
+|– _main.css.map_<br>
+|– _main.min.css_<br>
 |<br>
-error-401.html<br>
-error-403.html<br>
-error-404.html<br>
-error-500.html<br>
-error-503.html<br>
-index.html<br>
+**error-401.html**<br>
+**error-403.html**<br>
+**error-404.html**<br>
+**error-500.html**<br>
+**error-503.html**<br>
+**index.html**<br>
 
 <br>
 <br>
