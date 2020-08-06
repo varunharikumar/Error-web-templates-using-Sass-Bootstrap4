@@ -18,16 +18,8 @@ Create error pages (404,401,403,404,500,503) Website Templates usign Sass Bootst
     <th>asd</th>
   </thead>
     <tbody>
-        <tr>asd</tr>
-        <tr>asd</tr>
-        <tr>asd</tr>
+        <tr><img src="screenshots/Error-400.JPG" alt="error 400 website templates"></tr>
+        <tr><img src="screenshots/Error-401.JPG" alt="error 401 website templates"></tr>
+        <tr><img src="screenshots/Error-403.JPG" alt="error 403 website templates"></tr>
     </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr><img src="screenshots/Error-400.JPG" alt="error 400 website templates"></tr>
-    <tr><img src="screenshots/Error-401.JPG" alt="error 401 website templates"></tr>
-    <tr><img src="screenshots/Error-403.JPG" alt="error 403 website templates"></tr>
-  </tbody>
 </table>
